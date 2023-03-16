@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2689c46c.css",
+    "main.js": "/static/js/main.23c03242.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/NET.png": "/static/media/NET.1a727185f1bca77266a9.png",
+    "static/media/BALL.png": "/static/media/BALL.b7c22e4f0d70a6009827.png",
+    "static/media/BADMINTON.png": "/static/media/BADMINTON.eaefc1edcdd05979d821.png",
+    "static/media/logo.jpg": "/static/media/logo.e412e7315a34cd4904b8.jpg",
+    "static/media/Winner1.png": "/static/media/Winner1.5314532020d067d03b68.png",
+    "static/media/Prashant.png": "/static/media/Prashant.b11331915050979e7dba.png",
+    "static/media/handshake.png": "/static/media/handshake.ca37a1f39a18267d2c15.png",
+    "static/media/umpire.png": "/static/media/umpire.5b3517b3f03bb6472e97.png",
+    "static/media/Priyesh.jpg": "/static/media/Priyesh.6f65db726140856e6328.jpg",
+    "static/media/Winner2.jpg": "/static/media/Winner2.b39703e3252e7a5ae617.jpg",
+    "static/media/Winner3.jpg": "/static/media/Winner3.3405a96b1772a7624636.jpg",
+    "static/media/Anurag.jpg": "/static/media/Anurag.c63e2a399b5a1014a9b0.jpg",
+    "index.html": "/index.html",
+    "main.2689c46c.css.map": "/static/css/main.2689c46c.css.map",
+    "main.23c03242.js.map": "/static/js/main.23c03242.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2689c46c.css",
+    "static/js/main.23c03242.js"
+  ]
+}
