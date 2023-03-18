@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+     "test": "echo\"Error: no test specified\"&& exit 1",
     "start": "node App.js",
-    "server": "nodemon App.js",
-    "build": " NODE_ENV=production",
-    "client": "npm start --prefix client",
-    "clientinstall": "npm install --prefix client",
-    "dev": "nodemon App.js",
-    "render-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+     
+     
+    
+     
+      
+  
+      "render-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+
   },
   "keywords": [],
   "author": "",
@@ -31,7 +34,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.6",
     "mysql2": "^2.3.3",
-    "nodemon": "^2.0.21",
+    "nodemon": "^2.0.15",
     "sequelize": "^6.17.0"
   }
 }

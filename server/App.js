@@ -15,7 +15,7 @@ app.use(require('./routers/auth'));
 
 
 console.log("hello Anurag");
-if (process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === "production") {
     //*Set static folder up in production
     app.use(express.static(path.join(__dirname, "./client/build")));
 
