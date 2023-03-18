@@ -11,7 +11,7 @@
     
       "client": "npm start --prefix client",
       "clientinstall": "npm install --prefix client",
-      "dev": "npm i",
+      "dev": "nodemon App.js",
       "render-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
 
   },
