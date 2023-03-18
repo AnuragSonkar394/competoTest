@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node App.js",
       "server": "nodemon App.js",
+      "prebuild": "echo I run before the build script",
+    "build": "cross-env NODE_ENV=production webpack",
+    "postbuild": "echo I run after the build script",
       "client": "npm start --prefix client",
       "clientinstall": "npm install --prefix client",
       "dev": "concurrently \"npm start \" \"npm run client\"",
