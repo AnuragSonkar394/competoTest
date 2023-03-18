@@ -7,7 +7,7 @@
     "start": "node App.js",
       "server": "nodemon App.js",
      
-    "build": " NODE_ENV=NPM_CONFIG_PRODUCTION",
+    "build": " NODE_ENV=production",
     
       "client": "npm start --prefix client",
       "clientinstall": "npm install --prefix client",
