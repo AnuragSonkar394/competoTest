@@ -7,7 +7,7 @@
     "start": "node App.js",
     "client": "cd client && npm start",
     "dev": "nodemon App.js",
-    "build": "cd client && npm run build",
+    "build": "cd client && npm run build"
     
 
     
